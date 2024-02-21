@@ -12,7 +12,8 @@
 
 #💻 My Skill Set :
 
-Tech Stack
+![image](https://github.com/adm077/adm007/assets/139608052/fe53392f-aa6b-4a20-af68-3a4544908b5d)
+
 
 
 
