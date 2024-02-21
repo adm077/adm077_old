@@ -6,13 +6,13 @@
 
 🌱 I'm currently learning & exploring DevOps tools like: Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
 
-💞️ I’m looking to collaborate on ...
+💞️ I’m looking to collaborate on GitHub and open source projects related to cloud computing and cloud native.
 
 📫 How to reach me at israr.adm@gmail.com
 
 #💻 My Skill Set :
+![image](https://github.com/adm077/adm007/assets/139608052/8d0c82dc-dca2-4bdd-9b87-9e7b41abcf2a)
 
-![image](https://github.com/adm077/adm007/assets/139608052/fe53392f-aa6b-4a20-af68-3a4544908b5d)
 
 
 
