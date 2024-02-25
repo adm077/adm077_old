@@ -1,8 +1,8 @@
 # Mohammad Israrul Haque
 
-👋 Hi, I’m Mohammad Israrul haque | @adm077 |
+## 👋 Hi, I’m Mohammad Israrul haque | @adm077 |
 
-👀 I’m interested in learning and working with the community, open-source contribution
+### 👀 I’m interested in learning and working with the community, open-source contribution
 
 🌱 I'm currently learning & exploring DevOps tools like Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
 
