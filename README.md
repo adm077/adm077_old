@@ -2,11 +2,11 @@
 
 👋 Hi, I’m Mohammad Israrul haque | @adm077 |
 
-👀 I’m interested in learning and working with community, open source contribution
+👀 I’m interested in learning and working with the community, open-source contribution
 
-🌱 I'm currently learning & exploring DevOps tools like: Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
+🌱 I'm currently learning & exploring DevOps tools like Kubernetes, Docker, Ansible, AWS, Jenkins, Terraform, CI/CD, Git & GitHub
 
-💞️ I’m looking to collaborate on GitHub and open source projects related to cloud computing and cloud native.
+💞️ I’m looking to collaborate on GitHub and open source projects related to cloud computing and cloud-native.
 
 📫 How to reach me at israr.adm@gmail.com
 
